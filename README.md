@@ -73,9 +73,9 @@ The results of the testing will be stored in the `results.txt` file in the repos
 
 Please note that the `results.txt` file will be overwritten each time the script is executed.
 
-## License
+ <!-- ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). -->
 
 ## Disclaimer
 
