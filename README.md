@@ -1,6 +1,7 @@
 # UNSTABLE AND UNDER TESTING 😭 
 
-# Google Dorks Automation <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="Bash Logo" width="125">
+# Google Dorks Automation <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="Bash Logo" width="125"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="python" width="80"><img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="Image 2" width="100">
+
 
 This script automates the process of testing Google dorks against a given URL. Google dorks are specific search queries that can help identify vulnerable or exposed information on websites. This automation script uses a list of predefined Google dorks and allows you to add custom dorks for testing.
 
