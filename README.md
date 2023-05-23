@@ -1,3 +1,5 @@
+# UNSTABLE AND UNDER TESTING 😭 
+
 # Google Dorks Automation <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="Bash Logo" width="125">
 
 This script automates the process of testing Google dorks against a given URL. Google dorks are specific search queries that can help identify vulnerable or exposed information on websites. This automation script uses a list of predefined Google dorks and allows you to add custom dorks for testing.
@@ -77,7 +79,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Disclaimer
 
 The use of this script is at your own risk. Ensure that you have proper authorization before testing Google dorks against any URL. The author takes no responsibility for any misuse or illegal activities conducted using this script.
-
-```
-
-The updated README file now includes the Bash logo image beside the title. Make sure to adjust the width of the image (`width="30"`) if needed.
